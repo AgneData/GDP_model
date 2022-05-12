@@ -1,6 +1,6 @@
 ### GDP PREDICTION PROJECT
 #### <span style='background :powderblue' > PROJECT OBJECTIVE </span><br>
-#### To create a GDP prediction model by the most significant 5 variables.
+To create a GDP prediction model by the most significant 5 variables.
 #### <span style='background :powderblue' > FINAL GDP PREDICTION MODEL AND RESULTS </span><br>
     A. Selected the most significant variables:
 1. 'General government revenue / Percent of GDP / '; 
