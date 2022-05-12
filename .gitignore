@@ -1,0 +1,8 @@
+# Created by pytest automatically.
+.idea/
+.DS_Store
+*.zip
+project/Ex2_Population/
+venv
+.ipynb_checkpoints
+.pytest_cache
